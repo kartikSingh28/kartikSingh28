@@ -2,7 +2,9 @@
 
 🚀 Full Stack Developer | MERN Stack & Blockchain Enthusiast
 
-<marquee>💻 Welcome to my GitHub profile 🚀</marquee>
+---
+
+## 🎉 🌟 *WELCOME TO MY GITHUB PROFILE* 🌟 🎉
 
 ---
 
@@ -19,11 +21,10 @@
 
 ---
 
-### 📬 Reach Me
+### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiksingh39073@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-singh-63403a250)
+✉ Email: [kartiksingh39073@gmail.com](mailto:kartiksingh39073@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/kartik-singh-63403a250](https://www.linkedin.com/in/kartik-singh-63403a250)
 
 ---
 
