@@ -4,7 +4,7 @@
 
 ---
 
-## 🎉 🌟 *WELCOME TO MY GITHUB PROFILE* 🌟 🎉
+##  *WELCOME TO MY GITHUB PROFILE*
 
 ---
 
