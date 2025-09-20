@@ -5,7 +5,10 @@
 ---
 
 ##  *WELCOME TO MY GITHUB PROFILE*
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikSingh28&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/kartikSingh28?label=Followers&style=for-the-badge&color=brightgreen" alt="followers"/>
+</p>
 ---
 
 ### 🛠 Languages & Tools
