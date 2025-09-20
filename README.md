@@ -30,5 +30,25 @@
 🔗 LinkedIn: [https://www.linkedin.com/in/kartik-singh-63403a250](https://www.linkedin.com/in/kartik-singh-63403a250)
 
 ---
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikSingh28&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikSingh28)
+
+
+
+
+<hr/>
+
+
+
+<hr/>
+
+
+### 📈 GitHub Activity Graph
+<div align="center" style="padding: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikSingh28&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+
 
 ⭐ Feel free to explore my projects and reach out if you want to collaborate!
