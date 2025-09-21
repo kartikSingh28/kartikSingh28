@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kartik
+<img src="https://user-images.githubusercontent.com/74038190/214643112-f6f588c4-473d-47b1-a2a2-ff152f691e62.png" width="60" align="left" style="margin-right:15px; border-radius:50%;"/>
 
 🚀 Full Stack Developer | MERN Stack & Blockchain Enthusiast
 
@@ -13,6 +14,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center">
 <br><br>
+
+
 
 ### 🛠 Languages & Tools
 
@@ -36,6 +39,9 @@
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikSingh28&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikSingh28)
+
+
+
 
 
 
